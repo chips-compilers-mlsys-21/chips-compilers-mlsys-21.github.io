@@ -28,7 +28,7 @@ color_scheme: d2l
 tagline:
 description:
 author:
-baseurl:  # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url:
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -36,7 +36,6 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 collections:
   staffers:
   modules:
-  announcements:
 
 # Default layouts for each collection type
 defaults:
