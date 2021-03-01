@@ -1,0 +1,57 @@
+title: "MLSys'21 Symposium"
+theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+
+# logo: "/assets/images/logo-with-text.png"
+
+aux_links:
+  "GitHub":
+    - "https://github.com/chips-compilers-mlsys-21/chips-compilers-mlsys-21"
+aux_links_new_tab: true
+
+heading_anchors: true
+
+# Footer "Edit this page on GitHub" link text
+# gh_edit_link: true # show or hide edit this page link
+# gh_edit_link_text: "Edit at GitHub"
+# gh_edit_repository: "https://github.com/chips-compilers-mlsys-21/chips-compilers-mlsys-21" # the github URL for your repo
+# gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+# gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+# ga_tracking: UA-96378503-2
+# ga_tracking_anonymize_ip: true
+
+color_scheme: d2l
+
+
+tagline:
+description:
+author:
+baseurl:  # the subpath of your site, e.g. /blog
+url:
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+# Collections for website data
+collections:
+  staffers:
+  modules:
+  announcements:
+
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      subpath: '/assets/images/'
+
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
