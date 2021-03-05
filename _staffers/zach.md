@@ -1,6 +1,6 @@
 ---
 name: Zachary DeVito
-website:
+website: https://cs.stanford.edu/~zdevito/
 role: Speaker
 ---
 
