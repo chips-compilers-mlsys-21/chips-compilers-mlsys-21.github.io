@@ -11,8 +11,8 @@ layout: module
 
 8:35--9:30
 
-: Talk 1
-  : TBD
+: Nvidia chips
+  : Bill Dally
 
 9:30--10:00
 
@@ -26,8 +26,8 @@ layout: module
 
 11:00--11:30
 
-: Talk 3
-  : TBD
+: TPU
+  : Cliff Young
 
 
 11:30--12:00
