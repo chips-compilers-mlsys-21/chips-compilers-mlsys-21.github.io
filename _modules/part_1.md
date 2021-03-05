@@ -6,12 +6,12 @@ layout: module
 13:00--13:40
 
 : Talk 5
-  : TBD
+  : Saman Amarasinghe
 
 13:40--14:10
 
-: Talk 6
-  : TBD
+: Applying Circuit IR Compilers and Tools (CIRCT) to ML Applications.
+  : Mike Urbach
 
 14:10--14:30
 
@@ -20,8 +20,8 @@ layout: module
 
 14:30--15:00
 
-: Talk 7
-  : TBD
+: TVM
+  : Tianqi Chen
 
 
 15:00--15:30

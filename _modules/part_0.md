@@ -16,8 +16,8 @@ layout: module
 
 9:30--10:00
 
-: Talk 2
-  : TBD
+: PyTorch
+  : Zachary DeVito
 
 10:00--10:30
 
@@ -32,6 +32,5 @@ layout: module
 
 11:30--12:00
 
-: Talk 4
-  : TBD
-
+: MLIR/TF
+  : Jacques Pienaar
