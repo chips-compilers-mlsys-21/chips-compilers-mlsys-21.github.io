@@ -5,7 +5,7 @@ layout: module
 
 13:00--13:40
 
-: Talk 5
+: Invited Talk
   : Saman Amarasinghe
 
 13:40--14:10
@@ -26,13 +26,13 @@ layout: module
 
 15:00--15:30
 
-: Talk 8
-  : TBD
+: Arm
+  : Tomas Edso
 
 15:30--16:00
 
-: Talk 9
-  : TBD
+: Horizon Robotics
+  : Chang Huang
 
 16:00--17:00
 
