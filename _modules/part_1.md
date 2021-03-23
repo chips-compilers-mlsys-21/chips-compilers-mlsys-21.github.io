@@ -29,12 +29,8 @@ layout: module
 : Arm
   : Tomas Edso
 
-15:30--16:00
-
-: Horizon Robotics
-  : Chang Huang
-
-16:00--17:00
+13:30--14:30
 
 : Panel Discussion
-  : TBD
+  : Chris Lattner, Luis Ceze, Cliff Young
+
