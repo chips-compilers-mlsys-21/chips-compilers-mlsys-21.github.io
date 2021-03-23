@@ -37,3 +37,8 @@ This symposium aims to bring together experts from the field of computer archite
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
+
+## See also
+
+- [MLSys main website](https://mlsys.org/)
+- [Virtual event site](https://mlsys.org/virtual/2021/calendar)
