@@ -29,8 +29,12 @@ layout: module
 : Arm
   : Tomas Edso
 
-13:30--14:30
+15:30--16:30
 
 : Panel Discussion
   : Chris Lattner, Luis Ceze, Cliff Young
 
+16:30--17:00
+
+: AI compiler @ Alibaba
+  : Xiaoyong Liu
