@@ -1,5 +1,5 @@
 ---
-title: Morning Session
+title: Morning Session (Pacific Time)
 layout: module
 ---
 
