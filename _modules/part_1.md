@@ -5,7 +5,7 @@ layout: module
 
 13:00--13:40
 
-: Invited Talk
+: Supporting Sparse Computations in Machine Learning
   : Saman Amarasinghe
 
 13:40--14:10
