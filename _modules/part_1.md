@@ -20,7 +20,7 @@ layout: module
 
 14:30--15:00
 
-: TVM
+: Towards Automatic Scheduling for Tensorized Computation
   : Tianqi Chen
 
 
