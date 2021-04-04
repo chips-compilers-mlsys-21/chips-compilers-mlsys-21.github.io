@@ -26,7 +26,7 @@ layout: module
 
 15:00--15:30
 
-: Arm
+: Endpoint AI and the Advent of the microNPU
   : Tomas Edso
 
 15:30--16:30
