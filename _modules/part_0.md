@@ -32,5 +32,5 @@ layout: module
 
 11:30--12:00
 
-: MLIR/TF
+: MLIR & MLIR in TensorFlow ecosystem
   : Jacques Pienaar
