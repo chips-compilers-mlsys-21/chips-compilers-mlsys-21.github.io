@@ -11,7 +11,7 @@ layout: module
 
 8:35--9:30
 
-: Nvidia chips
+: Logarithmic Numbers and Asynchronous Accumulators, The Future of DL Chips
   : Bill Dally
 
 9:30--10:00
