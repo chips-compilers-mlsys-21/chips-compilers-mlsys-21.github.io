@@ -26,7 +26,7 @@ layout: module
 
 11:00--11:30
 
-: TPU
+: Science to Fuel Neural Nets and TPU Design
   : Cliff Young
 
 
