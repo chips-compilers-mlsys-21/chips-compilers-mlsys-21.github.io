@@ -36,5 +36,5 @@ layout: module
 
 16:30--17:00
 
-: AI compiler @ Alibaba
+: Compiler-Native Co-design for AI Heterogeneous Computing
   : Xiaoyong Liu
