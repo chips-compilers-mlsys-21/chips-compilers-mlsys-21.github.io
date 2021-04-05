@@ -16,7 +16,7 @@ layout: module
 
 9:30--10:00
 
-: PyTorch
+: How Usability Improves Performance in PyTorch
   : Zachary DeVito
 
 10:00--10:30
