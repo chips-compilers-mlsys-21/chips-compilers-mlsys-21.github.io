@@ -24,13 +24,13 @@ layout: module
 : Break
 
 
-11:00--11:30
+10:30--11:00
 
 : Science to Fuel Neural Nets and TPU Design
   : Cliff Young
 
 
-11:30--12:00
+11:00--11:30
 
 : MLIR & MLIR in TensorFlow ecosystem
   : Jacques Pienaar
