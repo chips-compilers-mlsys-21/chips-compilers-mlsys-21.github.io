@@ -4,4 +4,4 @@ website: https://cs.stanford.edu/~zdevito/
 role: Speaker
 ---
 
-Facebook
+Research scientist at Facebook AI Research
